@@ -1,1 +1,1 @@
-# Hotels_
+# Hotel application
